@@ -1,0 +1,3 @@
+# Dots Wiggler
+
+Messing around with CSS animations and dynamically created gameboards. Someday it'll be a real game...
